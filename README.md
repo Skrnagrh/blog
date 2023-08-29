@@ -68,5 +68,3 @@ Berikut adalah langkah-langkah untuk menjalankan proyek ini secara lokal di mesi
 8. **Akses Aplikasi:** Buka peramban web dan akses `http://localhost:8000` untuk melihat platform.
 
 Terima kasih telah tertarik pada proyek Blog! Jangan ragu untuk menghubungi kami jika Anda memiliki pertanyaan atau masukan lebih lanjut.
-
-Kunjungi repositori kami di [https://github.com/Skrnagrh/blog](https://github.com/Skrnagrh/blog)
