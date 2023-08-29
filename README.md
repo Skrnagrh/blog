@@ -5,13 +5,13 @@ Selamat datang di repositori proyek Blog! Proyek ini adalah sebuah platform blog
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="https://github.com/Skrnagrh/blog/raw/main/public/images/screenshot1.png" class="d-block w-100" alt="Screenshot 1">
+      <img src="https://github.com/Skrnagrh/blog/raw/main/public/img/home/post-slide-1.jpg" class="d-block w-100" alt="Screenshot 1">
     </div>
     <div class="carousel-item">
-      <img src="https://github.com/Skrnagrh/blog/raw/main/public/images/screenshot2.png" class="d-block w-100" alt="Screenshot 2">
+      <img src="https://github.com/Skrnagrh/blog/raw/main/public/public/img/home/post-slide-2.jpg" class="d-block w-100" alt="Screenshot 2">
     </div>
     <div class="carousel-item">
-      <img src="https://github.com/Skrnagrh/blog/raw/main/public/images/screenshot3.png" class="d-block w-100" alt="Screenshot 3">
+      <img src="https://github.com/Skrnagrh/blog/raw/main/public/public/img/home/post-slide-3.jpg" class="d-block w-100" alt="Screenshot 3">
     </div>
     <!-- Tambahkan gambar-gambar lain di sini -->
   </div>
