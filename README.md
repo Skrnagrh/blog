@@ -13,16 +13,7 @@ Selamat datang di repositori proyek Blog! Proyek ini adalah sebuah platform blog
     <div class="carousel-item">
       <img src="https://github.com/Skrnagrh/blog/raw/main/public/img/home/post-slide-3.jpg" class="d-block w-100" alt="Screenshot 3">
     </div>
-    <!-- Tambahkan gambar-gambar lain di sini -->
   </div>
-  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
 </div>
 
 
